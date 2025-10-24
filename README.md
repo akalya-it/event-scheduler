@@ -37,3 +37,22 @@ Tech Stack • Frontend: React.js, Axios, CSS
 • Database: MongoDB
 
 • Version Control: Git & GitHub
+## Screenshots
+
+<img src="/screenshots/NoAuth.jpeg" height="768">
+
+<img src="/screenshots/SignUp.jpeg" height="768">
+
+<img src="/screenshots/Login.jpeg" height="768">
+
+<img src="/screenshots/ForgotPassword.jpeg" height="768">
+
+<img src="/screenshots/Discover.jpeg" height="768">
+
+<img src="/screenshots/NotBooked.jpeg" height="768">
+
+<img src="/screenshots/Booked.jpeg" height="768">
+
+<img src="/screenshots/Scanning.png" height="768">
+
+
